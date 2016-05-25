@@ -1,0 +1,7 @@
+require 'sqlite3'
+require 'singleton'
+require 'byebug'
+require_relative 'users'
+require_relative 'reply'
+require_relative 'questionlikes'
+require_relative 'questionfollows'
